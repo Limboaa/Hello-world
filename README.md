@@ -1,2 +1,3 @@
 # Hello-world
-hello
+Hi!
+I like fruits
